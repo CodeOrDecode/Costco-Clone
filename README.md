@@ -19,7 +19,7 @@ Costco Wholesale Corporation (commonly shortened to Costco) is an American multi
 # Snacks Page
 <img src="https://github.com/user-attachments/assets/d9f93cbc-672e-480c-86dd-32e98f8b0f6c" width="650" >
 
-# Productdetails Page
+# Product Page
 <img src="https://github.com/user-attachments/assets/d6e8d35c-2af6-41c3-a894-a5d255f691cf" width="650" >
 
 # Cart Page
