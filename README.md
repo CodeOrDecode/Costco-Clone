@@ -1,7 +1,7 @@
 
 # Costco Clone
 
-Costco Wholesale Corporation (commonly shortened to Costco) is an American multinational corporation.It is the third-largest retailer in the world.
+Costco Wholesale Corporation (commonly shortened to Costco) is an American multinational corporation. It is the third-largest retailer in the world.
 
 
 # Before Login Home Page
