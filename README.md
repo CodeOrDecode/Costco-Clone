@@ -13,13 +13,13 @@ Costco Wholesale Corporation (commonly shortened to Costco) is an American multi
 # Login Page
 <img src="https://github.com/user-attachments/assets/0745ced2-4297-4322-886d-ea305f295a5d" width="650" >
 
-# Detergent Page
+# Detergents Page
 <img src="https://github.com/user-attachments/assets/0a98485d-7f07-44e9-87e3-bcec0fa37cbf" width="650" >
 
 # Snacks Page
 <img src="https://github.com/user-attachments/assets/d9f93cbc-672e-480c-86dd-32e98f8b0f6c" width="650" >
 
-# Product Page
+# Single product Page
 <img src="https://github.com/user-attachments/assets/d6e8d35c-2af6-41c3-a894-a5d255f691cf" width="650" >
 
 # Cart Page
