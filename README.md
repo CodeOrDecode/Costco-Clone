@@ -38,7 +38,7 @@ Costco Wholesale Corporation (commonly shortened to Costco) is an American multi
 
 ## 🔗 Links
 
-[Presentation link](https://drive.google.com/file/d/1m3eyaX50OnjcIQ8i9VSc-6E_8Q2rqZJp/view?usp=sharing)
+[Presentation link](https://drive.google.com/file/d/1Hrwlm0KbrQVrvbmtxnw78qcdUXXvbChu/view?usp=sharing)
 <br>
 [Frontend deploy link](https://costco-clone-phi.vercel.app/)
 <br>
