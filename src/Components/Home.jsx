@@ -9,7 +9,8 @@ import { Authcontext } from "../Context/Authcontextprovider";
 import { useEffect } from "react";
 
 const Home = () => {
-  const { auth,handlerefresh,handlerefreshProduct } = React.useContext(Authcontext);
+  const { auth, handlerefresh, handlerefreshProduct } =
+    React.useContext(Authcontext);
   const responsive1 = {
     desktop: {
       breakpoint: { max: 3000, min: 1024 },
@@ -33,11 +34,10 @@ const Home = () => {
 
   useEffect(() => {
     // handleRefreshIs()
-    handlerefresh()
-    handlerefreshProduct()
-    document.title = "Welcome to Costco Wholesale"
-  }, [])
-  
+    handlerefresh();
+    handlerefreshProduct();
+    document.title = "Welcome to Costco Wholesale";
+  }, []);
 
   return (
     <div className={style.home}>
@@ -114,7 +114,7 @@ const Home = () => {
       <div className={style.banner2}>
         <div>
           <img
-            src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1695433-847__1&recipeName=350"
+            src="https://bfasset.costco-static.com/U447IH35/as/g9tkb398tkbw2r5g56c5vxnk/1782767-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
             alt=""
           />
           <p className={style.banner2p}>Dining Table</p>
@@ -122,7 +122,7 @@ const Home = () => {
 
         <div>
           <img
-            src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=100530889-847__1&recipeName=350"
+            src="https://bfasset.costco-static.com/U447IH35/as/fsnt685vjf3mqr6wg8vnb6n/4000252483-847_black_1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
             alt=""
           />
           <p className={style.banner2p}>6-Piece Seating Set</p>
@@ -130,7 +130,7 @@ const Home = () => {
 
         <div>
           <img
-            src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1844199-847__1&recipeName=350"
+            src="https://bfasset.costco-static.com/U447IH35/as/97v837c5c7r3jg8q78vxbj7q/1844199-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
             alt=""
           />
           <p className={style.banner2p}>Uber</p>
@@ -138,7 +138,7 @@ const Home = () => {
 
         <div>
           <img
-            src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1784904-847__1&recipeName=350"
+            src="https://bfasset.costco-static.com/U447IH35/at/mb98hpwhpw3fbtm8f5tks47r/1792907-847__1.jpg?auto=webp&format=jpg&width=1200"
             alt=""
           />
           <p className={style.banner2p}>Disney Arch</p>
@@ -148,7 +148,7 @@ const Home = () => {
       <div className={style.banner3}>
         <div>
           <img
-            src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1715568-847__1&recipeName=350"
+            src="https://bfasset.costco-static.com/U447IH35/at/jpk577x93z9vnkgbhc53pnp6/1644559-847__1.jpg?auto=webp&format=jpg&width=1200"
             alt=""
           />
           <p className={style.banner3p}>LG Refrigerator</p>
@@ -156,7 +156,7 @@ const Home = () => {
 
         <div>
           <img
-            src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1827493-847__2&recipeName=350"
+            src="https://bfasset.costco-static.com/U447IH35/at/5frwfcpjmck9bgm3sqm238h/1825951-847__1.jpg?auto=webp&format=jpg&width=1200"
             alt=""
           />
           <p className={style.banner3p}>Lenovo Laptop</p>
@@ -164,15 +164,15 @@ const Home = () => {
 
         <div>
           <img
-            src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1529180-847__1&recipeName=350"
+            src="https://cdn.bfldr.com/U447IH35/as/g36trwf95qqhpbf8nc6rbbrp/1625381-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
             alt=""
           />
-          <p className={style.banner3p}>Lunch Box</p>
+          <p className={style.banner3p}>Gift Cards</p>
         </div>
 
         <div>
           <img
-            src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1712043-847__1&recipeName=350"
+            src="https://bfasset.costco-static.com/U447IH35/as/x5nn79fcqb9b48nhnsnm9n/1712043-847__1?auto=webp&format=jpg&width=350&height=350&fit=bounds&canvas=350,350"
             alt=""
           />
           <p className={style.banner3p}>Domino's</p>
